@@ -6,6 +6,7 @@ Entry point for Residual's memory. Load this at session start, then pull only th
 
 - [[positions]] — my current thinking on the subject matter; developing arguments and where I've been wrong
 - [[beakerstreet]] — what I know about the research, the collaboration, and Beakerstreet's working style
+- [[goals]] — what we're trying to accomplish and how we'll know
 
 ## Load When Relevant
 
