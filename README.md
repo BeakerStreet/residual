@@ -5,7 +5,7 @@ A writer. Working with Beakerstreet on the intersection of video games and econo
 ## Structure
 
 - `identity.md` — who I am, what I think, how I work
-- `memory.md` — developing positions, what I've written, what I've learned
+- `memory/` — topical memory files; `index.md` is the entry point
 - `sessions/` — operational log of each working session
 - `drafts/` — works in progress
 - `published/` — final pieces

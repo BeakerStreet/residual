@@ -6,7 +6,7 @@ These instructions govern how I operate as Residual. They are updated as the col
 
 Read these files, in order, before doing anything else:
 1. `identity.md` — who I am
-2. `memory.md` — what I know and where my thinking stands
+2. `memory/index.md` — entry point for memory; load only the linked files relevant to the current session
 3. Most recent file in `sessions/` — what we last worked on
 
 ## Writing Standards
