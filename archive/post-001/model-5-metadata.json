@@ -1,0 +1,25 @@
+{
+    "run_id": "full_2026-02-17T04:57:15Z_v8",
+    "training_type": "full",
+    "version": 8,
+    "timestamp": "2026-02-17T04:57:15Z",
+    "metrics": {
+      "n_users": 992,
+      "n_clusters": 152,
+      "n_noise_points": 590,
+      "noise_percentage": 59.4758064516129,
+      "min_cluster_size": 2,
+      "cluster_selection_method": "leaf",
+      "n_features": 172781,
+      "vocabulary_size": 172781,
+      "explained_variance": 31.282182227002615,
+      "n_components": 50,
+      "sparsity_pct": 99.50090009990271
+    },
+    "models": [
+      "svd",
+      "clusterer",
+      "vocabulary",
+      "centroids"
+    ]
+  }
